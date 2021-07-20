@@ -138,3 +138,11 @@ opacity: 1;
 .container .card:hover .content .contentBx h3::before{
     content:'Yash Barjatya' ;
 }
+.copyrightText{
+    width:100%;
+    padding: 8px 100px;
+    text-align: center;
+    color:#fff;
+    margin-left:-15%;
+    font-size: larger;
+}
